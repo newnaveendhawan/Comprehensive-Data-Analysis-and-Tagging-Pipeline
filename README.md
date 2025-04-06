@@ -4,23 +4,23 @@ This project focuses on performing end-to-end data analysis on a provided datase
 
 ## 📌 Project Objectives
 #### 1. Column-wise Analysis
-Detailed data type, uniqueness, distribution & stakeholder relevance.
+###### Detailed data type, uniqueness, distribution & stakeholder relevance.
 
 #### 2. Data Cleaning
-Missing value handling
-Categorical standardization
-Numerical formatting & outlier treatment
+###### Missing value handling
+###### Categorical standardization
+###### Numerical formatting & outlier treatment
 
 #### 3. Critical Column Identification
-Top 5 columns with business relevance
-Insightful visualizations (at least 3)
+###### Top 5 columns with business relevance
+###### Insightful visualizations (at least 3)
 
 #### 4. Text Feature Generation
-Tags from free text fields (e.g., failure conditions, components)
+###### Tags from free text fields (e.g., failure conditions, components)
 
 #### 5. Summary Report
-Cleaned data + EDA report
-Key findings, actionable insights, and data discrepancies
+###### Cleaned data + EDA report
+###### Key findings, actionable insights, and data discrepancies
 
 ## Dataset
 The dataset used in this project was provided via email. It contains both structured and free-text fields that were analyzed and processed to generate insights and tags.
