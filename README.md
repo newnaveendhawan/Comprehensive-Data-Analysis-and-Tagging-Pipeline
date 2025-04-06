@@ -23,7 +23,7 @@ This project focuses on performing end-to-end data analysis on a provided datase
 ###### Key findings, actionable insights, and data discrepancies
 
 ## Dataset
-The dataset used in this project was provided via email. It contains both structured and free-text fields that were analyzed and processed to generate insights and tags.
+The dataset used in this project was provided via email. It contains both project details and an unstructured CSV file that was analyzed and processed to generate insights and tags.
 
 ## Deliverables
 The following files are included in this repository:
@@ -38,6 +38,6 @@ Google Colab
 Excel/CSV
     
 ## 👤 Author
-Naveen Dhawan
-GitHub: github.com/newnaveendhawan
-Email: newnaveendhawan@gmail.com
+###### Naveen Dhawan
+###### GitHub: github.com/newnaveendhawan
+###### Email: newnaveendhawan@gmail.com
